@@ -4,7 +4,7 @@ using namespace std;
     /*
         === Task === 
 
-        1. What is difference of unsigned and sign of char?
+        1. What is the difference of unsigned and signed char?
 
         2. How if we store negative number in unsigned int?
         Run this code!
@@ -13,9 +13,9 @@ using namespace std;
 
         3. Why output of float different with double and long double?
 
-        4. What the difference double and long double?
+        4. What the difference of double and long double?
 
-        5. Is int size is according to system architecture?
+        5. Is int size is according to the system architecture?
 
         6. Can we print hexadecimal of float?
     */
